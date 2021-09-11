@@ -153,7 +153,7 @@ body {
    text-align: center;
 }
 .principal h1{
-    font-size: 90px;
+    font-size: 70px;
     margin-bottom: 20px;
     font-family: 'Kaushan Script', cursive;
     font-family: 'Merienda', cursive;
@@ -306,7 +306,7 @@ p{
     background: #E1306C;
 }
 .socialicon li:nth-child(3) a{
-    background: #333;
+    background: #4d9bcf;
 }
 .socialicon li a i{
     position: absolute;
