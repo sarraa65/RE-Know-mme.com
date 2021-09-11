@@ -153,13 +153,13 @@ body {
    text-align: center;
 }
 .principal h1{
-    font-size: 70px;
+    font-size: 60px;
     margin-bottom: 20px;
     font-family: 'Kaushan Script', cursive;
     font-family: 'Merienda', cursive;
     font-family: 'Patrick Hand SC', cursive;
     font-family: 'Pacifico', cursive;
-    -webkit-text-stroke: 0.3vw black;
+    -webkit-text-stroke: 0.2vw black;
   
  
 }
